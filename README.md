@@ -1,4 +1,4 @@
-# Clinic Management System
+# CLINICA ODONTOLOGICA
 
 ## Este é um sistema simples de gerenciamento de clínica que permite o cadastro de pacientes e o agendamento de consultas.
 
